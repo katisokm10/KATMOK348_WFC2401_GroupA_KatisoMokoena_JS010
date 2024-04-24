@@ -1,3 +1,4 @@
+// JavaScript code snippet that simulates a game-like scenario where the user progresses through different "rooms" by clicking on buttons. 
 // Add event listener to execute code when the DOM content is fully loaded
 document.addEventListener("DOMContentLoaded", () => {
     // Bug: Incorrect ID used for attaching the event listener
